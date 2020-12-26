@@ -1,0 +1,8 @@
+cffi==1.14.3
+numpy==1.19.4
+pycparser==2.20
+pygame==2.0.0
+pymunk==5.7.0
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+replit-play==0.0.23
